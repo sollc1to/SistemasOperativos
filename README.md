@@ -1,11 +1,11 @@
 # Sistemas Operativos – Resumen de Prácticas en XINU y Linux
 
-Este proyecto resume los conceptos y prácticas que desarrollé a lo largo de la materia Sistemas Operativos, utilizando tanto el sistema operativo educativo **XINU**
+Este repositorio resume los conceptos y prácticas que desarrollamos a lo largo de la materia Sistemas Operativos, utilizando tanto el sistema operativo educativo **XINU**
 como herramientas de **Linux**.
 
 ---
 
-## 🔧 XINU – Sistema Operativo Educativo
+##  XINU – Sistema Operativo Educativo
 
 XINU (Experimental Integrated Networked Unix) es un sistema operativo simple y didáctico, ideal para comprender cómo funciona internamente un sistema operativo desde cero.
 
